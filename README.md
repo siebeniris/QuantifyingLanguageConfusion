@@ -73,17 +73,6 @@ A Quantitative Metric, Security Implications and Typological Analysis__.
 2. Measuring language confusion
 
 
-
-##  Language Graph Embeddings
-
-
-- Colexifications
-  - node2vec
-- Grambank
-  - GraphSAGE
-- WALS
-  - GraphSAGE
-
 ## Analysis
 
 `src/analysis_language_confusion`

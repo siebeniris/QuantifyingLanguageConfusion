@@ -26,18 +26,7 @@ A Quantitative Metric, Security Implications and Typological Analysis__.
 
 `python -m unidic download`
 
-## Language Similarities
-
-### By features
-- Lang2Lang Pointwise Mutual Information by Overlapping Colexification Patterns (CLICS3):
-  - `datasets/lang2lang/clics3.csv`
-- Lang2Lang Euclidean Distance from Grambank 
-  - (data source and code: https://github.com/WPoelman/typ-div-survey)
-  - `datasets/lang2lang/grambank_sim.csv`
-- Lang2Lang Euclidean Distance from WALS
-  - `datasets/lang2lang/wals_sim.csv`
-
-
+## Language Graphs
 
 ## Preprocessing datasets
 

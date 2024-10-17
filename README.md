@@ -1,4 +1,4 @@
-# QuantifyingLanguageConfusion
+# Quantifying Language Confusion
 This is the official repository for our paper __Large Language Models are Easily Confused:
 A Quantitative Metric, Security Implications and Typological Analysis__.
 

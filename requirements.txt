@@ -14,3 +14,10 @@ seaborn
 scipy
 nltk
 scipy
+lingua-language-detector
+jieba
+hebrew_tokenizer
+hangul-korean
+fugashi[unidic]
+kiwipiepy
+fasttext-langdetect

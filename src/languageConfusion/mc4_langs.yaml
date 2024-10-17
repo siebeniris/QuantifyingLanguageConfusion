@@ -1,0 +1,76 @@
+eng_Latn:
+  - tokens: 2733
+  - pages: 3067
+  - mt5: 5.67
+deu_Latn:
+  - tokens: 347
+  - pages: 397
+  - mt5: 3.05
+tur_Latn:
+  - tokens: 71
+  - pages: 88
+  - mt5: 1.93
+jpn_Jpan:
+  - tokens: 164
+  - pages: 87
+  - mt5: 1.92
+cmn_Hani:
+  - tokens: 39
+  - pages: 55
+  - mt5: 1.67
+arb_Arab:
+  - tokens: 57
+  - pages: 53
+  - mt5: 1.66
+hun_Latn:
+  - tokens: 39
+  - pages: 37
+  - mt5: 1.48
+hin_Deva:
+  - tokens: 24
+  - pages: 19
+  - mt5: 1.21
+kor_Hang:
+  - tokens: 26
+  - pages: 16
+  - mt5: 1.14
+heb_Hebr:
+  - tokens: 17
+  - pages: 12
+  - mt5: 1.06
+kaz_Cyrl:
+  - tokens: 3.1
+  - pages: 2.4
+  - mt5: 0.65
+mlt_Latn:
+  - tokens: 5.2
+  - pages: 2.3
+  - mt5: 0.64
+mon_Cyrl:
+  - tokens: 2.7
+  - pages: 2.1
+  - mt5: 0.62
+urd_Arab:
+  - tokens: 2.4
+  - pages: 1.9
+  - mt5: 0.61
+guj_Gujr:
+  - tokens: 0.8
+  - pages: 0.6
+  - mt5: 0.43
+sin_Sinh:
+  - tokens: 0.8
+  - pages: 0.5
+  - mt5: 0.41
+pan_Guru:
+  - tokens: 0.6
+  - pages: 0.4
+  - mt5: 0.37
+amh_Ethi:
+  - tokens: 0.3
+  - pages: 0.2
+  - mt5: 0.29
+ydd_Hebr:
+  - tokens: 0.3
+  - pages: 0.1
+  - mt5: 0.28

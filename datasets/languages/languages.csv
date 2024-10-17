@@ -1,0 +1,111 @@
+Language_Name,ISO639P3code,Freq,Language_ID,Glottocode_clics,Glottolog_Name,Macroarea,Family,Wals_ID,Wals_Name,Latitude,Longitude,Glottocode_wals,Subfamily,Genus,Language
+Romanian,ron,81,ron,roma1327,Romanian,Eurasia,Indo-European,mol,Moldavian,47.0,29.0,roma1327,,Romance,ron
+Spanish,spa,76,176,stan1288,Spanish,Eurasia,Indo-European,spa,Spanish,40.0,-4.0,stan1288,,Romance,spa
+Portuguese,por,71,178,port1283,Portuguese,Eurasia,Indo-European,por,Portuguese,39.0,-8.0,port1283,,Romance,por
+Udmurt,udm,69,159,udmu1245,Udmurt,Eurasia,Uralic,udm,Udmurt,57.5,52.5,udmu1245,Finno-Ugric,Permic,udm
+Erzya Mordvin,myv,68,126,erzy1239,Erzya,Eurasia,Uralic,moe,Mordvin (Erzya),53.0,45.5,erzy1239,Finno-Ugric,Mordvin,myv
+Indonesian,ind,68,Indonesian,indo1316,Indonesian,Papunesia,Austronesian,ind,Indonesian,0.0,106.0,indo1316,,Malayo-Sumbawan,ind
+Dutch,nld,68,191,dutc1256,Dutch,Eurasia,Indo-European,dbr,Dutch (Brabantic),50.75,4.5,dutc1256,,Germanic,nld
+Polish,pol,67,203,poli1260,Polish,Eurasia,Indo-European,pol,Polish,52.0,20.0,poli1260,,Slavic,pol
+Lithuanian,lit,67,36600,lith1251,Lithuanian,Eurasia,Indo-European,lit,Lithuanian,55.0,24.0,lith1251,,Baltic,lit
+Russian,rus,66,204,russ1263,Russian,Eurasia,Indo-European,rus,Russian,56.0,38.0,russ1263,,Slavic,rus
+Hawaiian,haw,62,235,hawa1245,Hawaiian,Papunesia,Austronesian,haw,Hawaiian,19.5833333333,-155.5,hawa1245,Eastern Malayo-Polynesian,Oceanic,haw
+Ossetic,oss,62,319,osse1243,Ossetian,Eurasia,Indo-European,oss,Ossetic,43.0,44.0,osse1243,,Iranian,oss
+Swedish,swe,62,187,swed1254,Swedish,Eurasia,Indo-European,swe,Swedish,60.0,15.0,swed1254,,Germanic,swe
+Thai,tha,61,Thai,thai1261,Thai,Eurasia,Tai-Kadai,tha,Thai,16.0,101.0,thai1261,,Kam-Tai,tha
+Telugu,tel,58,709,telu1262,Telugu,Eurasia,Dravidian,tel,Telugu,16.0,79.0,telu1262,,South-Central Dravidian,tel
+Lezgian,lez,57,64,lezg1247,Lezgian,Eurasia,Nakh-Daghestanian,lez,Lezgian,41.6666666667,47.8333333333,lezg1247,Daghestanian,Lezgic,lez
+Hausa,hau,56,Hausa,haus1257,,Africa,Afro-Asiatic,hau,Hausa,12.0,7.0,haus1257,Chadic,West Chadic,hau
+Irish,gle,56,181,iris1253,Irish,Eurasia,Indo-European,ird,Irish (Donegal),55.0,-8.0,iris1253,,Celtic,gle
+Chechen (Akkin dialect),che,55,317,chec1245,Chechen,Eurasia,Nakh-Daghestanian,chc,Chechen,43.25,45.8333333333,chec1245,,Nakh,che
+Mandarin Chinese,cmn,55,MandarinChinese,mand1415,Mandarin Chinese,Eurasia,Sino-Tibetan,kug,Kunming,25.0,102.75,mand1415,,Chinese,cmn
+Meadow Mari,mhr,55,mhr,east2328,Eastern Mari,Eurasia,Uralic,mme,Mari (Meadow),57.0,48.0,east2328,Finno-Ugric,Mari,mhr
+Northern Saami,sme,54,143,nort2671,North Saami,Eurasia,Uralic,sno,Saami (Northern),69.0,24.0,nort2671,Finno-Ugric,Saami,sme
+Italian,ita,54,170,ital1282,Italian,Eurasia,Indo-European,ifi,Italian (Fiorentino),43.75,11.25,ital1282,,Romance,ita
+Hungarian,hun,54,131,hung1274,Hungarian,Eurasia,Uralic,hun,Hungarian,47.0,20.0,hung1274,Finno-Ugric,Ugric,hun
+Finnish,fin,53,128,finn1318,Finnish,Eurasia,Uralic,fin,Finnish,62.0,25.0,finn1318,Finno-Ugric,Finnic,fin
+Bulgarian,bul,53,200,bulg1262,Bulgarian,Eurasia,Indo-European,bul,Bulgarian,42.5,25.0,bulg1262,,Slavic,bul
+French,fra,52,171,stan1290,French,Eurasia,Indo-European,fre,French,48.0,2.0,stan1290,,Romance,fra
+Catalan,cat,52,177,stan1289,Catalan,Eurasia,Indo-European,ctl,Catalan,41.75,2.0,stan1289,,Romance,cat
+Hindi  ,hin,51,702,hind1269,Hindi,Eurasia,Indo-European,hin,Hindi,25.0,77.0,hind1269,,Indic,hin
+Breton,bre,51,183,bret1244,Breton,Eurasia,Indo-European,bre,Breton,48.0,-3.0,bret1244,,Celtic,bre
+Welsh,cym,49,182,wels1247,Welsh,Eurasia,Indo-European,wec,Welsh (Colloquial),52.75,-3.5833,wels1247,,Celtic,cym
+Bengali,ben,46,ben,beng1280,Bengali,Eurasia,Indo-European,ben,Bengali,24.0,90.0,beng1280,,Indic,ben
+English,eng,46,190,stan1293,English,Eurasia,Indo-European,eng,English,52.0,0.0,stan1293,,Germanic,eng
+Czech,ces,46,ces,czec1258,Czech,Eurasia,Indo-European,cze,Czech,50.0,15.0,czec1258,,Slavic,ces
+Avar,ava,45,107,avar1256,Avar,Eurasia,Nakh-Daghestanian,ava,Avar,42.5,46.5,avar1256,Daghestanian,Avar-Andic-Tsezic,ava
+Modern Greek,ell,45,168,mode1248,Modern Greek,Eurasia,Indo-European,gcy,Greek (Cypriot),34.75,33.0,mode1248,,Greek,ell
+Basque,eus,45,219,basq1248,Basque,Eurasia,Basque,bqb,Basque (Bidasoa Valley),43.0,-3.83333333333,basq1248,,Basque,eus
+Japanese,jpn,44,Japanese,nucl1643,Japanese,Eurasia,Japonic,jpn,Japanese,37.0,140.0,nucl1643,,,jpn
+Kumyk,kum,43,72,kumy1244,Kumyk,Eurasia,Turkic,kuq,Kumyk,43.0,47.3333333333,kumy1244,,Turkic,kum
+Abkhaz,abk,43,abk,abkh1244,Abkhazian,Eurasia,Abkhaz-Adyge,abk,Abkhaz,43.0833333333,41.0,abkh1244,,Northwest Caucasian,abk
+Danish,dan,41,dan,dani1285,Danish,Eurasia,Indo-European,dsh,Danish,56.0,10.0,dani1285,,Germanic,dan
+Bashkir,bak,41,bak,bash1264,Bashkir,Eurasia,Turkic,bsk,Bashkir,53.0,58.0,bash1264,,Turkic,bak
+Nogai,nog,39,73,noga1249,Nogai,Eurasia,Turkic,nog,Noghay,44.0,46.0,noga1249,,Turkic,nog
+Belarusian,bel,38,bel,bela1254,Belarusian,Eurasia,Indo-European,blr,Belorussian,54.0,28.0,bela1254,,Slavic,bel
+Tamil,tam,34,708,tami1289,Tamil,Eurasia,Dravidian,tml,Tamil,11.0,78.5,tami1289,,Southern Dravidian,tam
+Vietnamese,vie,33,816,viet1252,Vietnamese,Eurasia,Austroasiatic,vie,Vietnamese,10.5,106.5,viet1252,Mon-Khmer,Viet-Muong,vie
+Burmese (Written),mya,32,WrittenBurmese,nucl1310,Burmese,Eurasia,Sino-Tibetan,brm,Burmese,21.0,96.0,nucl1310,Tibeto-Burman,Burmese-Lolo,mya
+Marathi,mar,30,705,mara1378,Marathi,Eurasia,Indo-European,mhi,Marathi,19.0,76.0,mara1378,,Indic,mar
+Kazakh,kaz,29,kaz,kaza1248,Kazakh,Eurasia,Turkic,kaz,Kazakh,50.0,70.0,kaza1248,,Turkic,kaz
+Nepali,nep,29,706,east1436,Eastern Pahari,Eurasia,Indo-European,nep,Nepali,28.0,85.0,nepa1252,,Indic,nep
+German,deu,28,194,stan1295,German,Eurasia,Indo-European,gbl,German (Berlin),52.5,13.3333333333,stan1295,,Germanic,deu
+Chuvash,chv,28,chv,chuv1255,Chuvash,Eurasia,Turkic,chv,Chuvash,55.5,47.5,chuv1255,,Turkic,chv
+Standard Arabic,arb,27,arb,stan1318,Standard Arabic,Eurasia,Afro-Asiatic,ams,Arabic (Modern Standard),25.0,42.0,stan1318,,Semitic,arb
+Maori,mri,24,236,maor1246,Maori,Papunesia,Austronesian,mao,Maori,-40.0,176.0,maor1246,Eastern Malayo-Polynesian,Oceanic,mri
+Armenian,hye,23,hye,nucl1235,Eastern Armenian,Eurasia,Indo-European,arm,Armenian (Eastern),40.0,45.0,nucl1235,,Armenian,hye
+Modern Hebrew,heb,23,heb,hebr1245,Modern Hebrew,Eurasia,Afro-Asiatic,hba,Hebrew (Modern Ashkenazic),31.75,35.1666666667,hebr1245,,Semitic,heb
+Adyghe,ady,23,ady,adyg1241,Adyghe,Eurasia,Abkhaz-Adyge,adt,Adyghe (Temirgoy),45.2166666667,39.7,adyg1241,,Northwest Caucasian,ady
+Ket,ket,23,Ket,kett1243,Ket,Eurasia,Yeniseian,ket,Ket,64.0,87.0,kett1243,,Yeniseian,ket
+Northern Kurdish,kmr,22,kmr,nort2641,Northern Kurdish,Eurasia,Indo-European,kji,Kurmanji,38.0,42.0,nort2641,,Iranian,kmr
+Georgian,kat,22,kat,nucl1302,Georgian,Eurasia,Kartvelian,geo,Georgian,42.0,44.0,nucl1302,,Kartvelian,kat
+Evenki,evn,22,evn,even1259,Evenki,Eurasia,Tungusic,eve,Evenki,56.0,125.0,even1259,,Tungusic,evn
+Slovene,slv,21,slv,slov1268,Slovenian,Eurasia,Indo-European,slo,Slovene,46.0,15.0,slov1268,,Slavic,slv
+Moksha,mdf,21,mdf,moks1248,Moksha,Eurasia,Uralic,mmo,Mordvin (Moksha),54.0,44.0,moks1248,Finno-Ugric,Mordvin,mdf
+Archi (variety 2),aqc,20,534,arch1244,Archi,Eurasia,Nakh-Daghestanian,arc,Archi,42.0,46.8333333333,arch1244,Daghestanian,Lezgic,aqc
+North Karelian,krl,20,krl,kare1335,Karelian,Eurasia,Uralic,krl,Karelian,64.0,32.0,kare1335,Finno-Ugric,Finnic,krl
+Udi,udi,19,80,udii1243,Udi,Eurasia,Nakh-Daghestanian,udi,Udi,41.0,48.0,udii1243,Daghestanian,Lezgic,udi
+Slovak,slk,19,slk,slov1269,Slovak,Eurasia,Indo-European,svk,Slovak,49.0,20.0,slov1269,,Slavic,slk
+Kalaallisut,kal,19,kal,kala1399,Kalaallisut,Eurasia,Eskimo-Aleut,gre,Greenlandic (East),65.0,-40.0,kala1399,,Eskimo,kal
+Malayalam,mal,19,mal,mala1464,Malayalam,Eurasia,Dravidian,mym,Malayalam,10.0,76.5,mala1464,,Southern Dravidian,mal
+Komi-Permyak,koi,18,koi,komi1269,Komi-Permyak,Eurasia,Uralic,kop,Komi-Permyak,59.5,54.5,komi1269,Finno-Ugric,Permic,koi
+Icelandic,isl,18,isl,icel1247,Icelandic,Eurasia,Indo-European,ice,Icelandic,65.0,-17.0,icel1247,,Germanic,isl
+Livonian,liv,16,liv,livv1244,Liv,Eurasia,Uralic,liv,Liv,56.8333333333,24.0,livv1244,Finno-Ugric,Finnic,liv
+Lak,lbe,16,56,lakk1252,Lak,Eurasia,Nakh-Daghestanian,lak,Lak,42.1666666667,47.1666666667,lakk1252,Daghestanian,Lak-Dargwa,lbe
+Nenets,yrk,16,148,nene1249,Tundra Nenets,Eurasia,Uralic,nen,Nenets (Forest),69.0,72.0,nene1249,,Samoyedic,yrk
+Kannada,kan,16,kan,nucl1305,Kannada,Eurasia,Dravidian,knd,Kannada,14.0,76.0,nucl1305,,Southern Dravidian,kan
+Korean,kor,15,kor,kore1280,Korean,Eurasia,Koreanic,kor,Korean,37.5,128.0,kore1280,,,kor
+Tongan,ton,15,240,tong1325,Tonga (Tonga Islands),Papunesia,Austronesian,tng,Tongan,-21.1666666667,-175.166666667,tong1325,Eastern Malayo-Polynesian,Oceanic,ton
+Sakha,sah,13,sah,yaku1245,Sakha,Eurasia,Turkic,ykt,Yakut,62.0,130.0,yaku1245,,Turkic,sah
+Jamaican Creole (Limonese Creole dialect),jam,13,218,jama1262,Jamaican Creole English,North America,Indo-European,jcr,Jamaican Creole,18.1666666667,-77.25,jama1262,,Creoles and Pidgins,jam
+Hokkaido Ainu,ain,12,ain,ainu1240,Hokkaido Ainu,Eurasia,Ainu,ain,Ainu,43.0,143.0,ainu1240,,,ain
+Turkish,tur,11,tur,nucl1301,Turkish,Eurasia,Turkic,tur,Turkish,39.0,35.0,nucl1301,,Turkic,tur
+Tatar,tat,11,tat,tata1255,Tatar,Eurasia,Turkic,tmi,Tatar (Mishar),55.5,49.0,tata1255,,Turkic,tat
+Manipuri,mni,10,Manipuri,mani1292,Manipuri,Eurasia,Sino-Tibetan,mei,Meithei,24.75,94.0,mani1292,Tibeto-Burman,Kuki-Chin,mni
+Ukrainian,ukr,9,ukr,ukra1253,Ukrainian,Eurasia,Indo-European,ukr,Ukrainian,49.0,33.0,ukra1253,,Slavic,ukr
+Seri,sei,9,225,seri1257,Seri,North America,Seri,ser,Seri,29.0,-112.0,seri1257,,Seri,sei
+Veps,vep,9,vep,veps1250,Veps,Eurasia,Uralic,vep,Veps,60.0,35.0,veps1250,Finno-Ugric,Finnic,vep
+Megrelian,xmf,8,57000,ming1252,Mingrelian,Eurasia,Kartvelian,mgl,Mingrelian,42.5,42.0,ming1252,,Kartvelian,xmf
+Lushai,lus,6,Lushai,lush1249,Mizo,Eurasia,Sino-Tibetan,miz,Mizo,23.1666666667,92.8333333333,lush1249,Tibeto-Burman,Kuki-Chin,lus
+Rapa Nui,rap,6,238,rapa1244,Rapanui,Papunesia,Austronesian,rap,Rapanui,-27.1166666667,-109.366666667,rapa1244,Eastern Malayo-Polynesian,Oceanic,rap
+Kalmyk,xal,5,xal,kalm1243,Oirad-Kalmyk,Eurasia,Mongolic,kiq,Kalmyk (Issyk-Kul),42.4166666667,78.3333333333,kalm1243,,Mongolic,xal
+Ingush,inh,4,516,ingu1240,Ingush,Eurasia,Nakh-Daghestanian,ing,Ingush,43.1666666667,45.0833333333,ingu1240,,Nakh,inh
+Manchu,mnc,4,mnc,manc1252,Manchu,Eurasia,Tungusic,mnc,Manchu,49.5,127.5,manc1252,,Tungusic,mnc
+Galician-std,glg,4,Galicianstd,gali1258,Galician,Eurasia,Indo-European,glc,Galician,43.0,-8.0,gali1258,,Romance,glg
+"Tetun, Suai",tet,3,tetu1245-suai,sout2898,,Papunesia,Austronesian,ttd,Tetun Dili,-8.58333333333,125.583333333,tetu1245,,Central Malayo-Polynesian,tet
+Southern Altai,alt,3,68489,sout2694,Southern Altai,Eurasia,Turkic,aso,Altai (Southern),51.0,87.0,sout2694,,Turkic,alt
+Lower Sorbian,dsb,3,LowerSorbian,lowe1385,Lower Sorbian,Eurasia,Indo-European,srl,Sorbian (Lower),51.75,14.3333333333,lowe1385,,Slavic,dsb
+Kildin Sami,sjd,3,sjd,kild1236,Kildin Saami,Eurasia,Uralic,ski,Saami (Kildin),67.0,37.0,kild1236,Finno-Ugric,Saami,sjd
+Tok Pisin,tpi,2,tok-pisin,tokp1240,Tok Pisin,Papunesia,Indo-European,tpi,Tok Pisin,-9.5,147.166666667,tokp1240,,Creoles and Pidgins,tpi
+Faroese,fao,2,40500,faro1244,Faroese,Eurasia,Indo-European,far,Faroese,62.0,-7.0,faro1244,,Germanic,fao
+Tajik,tgk,2,52200,taji1245,Tajik,Eurasia,Indo-European,taj,Tajik,38.6666666667,70.0,taji1245,,Iranian,tgk
+Hill Mari,mrj,2,mrj,west2392,Western Mari,Eurasia,Uralic,mah,Mari (Hill),57.0,58.0,west2392,Finno-Ugric,Mari,mrj
+Tuvan,tyv,1,68484,tuvi1240,Tuvinian,Eurasia,Turkic,tuv,Tuvan,52.0,95.0,tuvi1240,,Turkic,tyv
+Abaza,abq,1,68466,abaz1241,Abaza,Eurasia,Abkhaz-Adyge,abz,Abaza,44.0,42.0,abaz1241,,Northwest Caucasian,abq
+Turkmen,tuk,1,67750,turk1304,Turkmen,Eurasia,Turkic,tkm,Turkmen,40.0,58.0,turk1304,,Turkic,tuk
+Kusa-Manea,aoz,1,kusa1252,kusa1252,,Papunesia,Austronesian,tse,Timorese,-9.66666666667,124.5,uabm1237,,Central Malayo-Polynesian,aoz
+Nanai,gld,1,gld,nana1257,Nanai,Eurasia,Tungusic,nai,Nanai,49.5,137.0,nana1257,,Tungusic,gld
+Kikuyu,kik,1,Kikuyu,kiku1240,,Africa,Atlantic-Congo,kik,Kikuyu,-0.75,36.75,kiku1240,Benue-Congo,Bantoid,kik
+Scottish Gaelic,gla,1,39800,scot1245,Scottish Gaelic,Eurasia,Indo-European,gae,Gaelic (Scots),57.0,-4.0,scot1245,,Celtic,gla
+Aleut,ale,1,ale,aleu1260,Aleut,North America,Eskimo-Aleut,aea,Aleut (Eastern),54.75,-164.0,aleu1260,,Aleut,ale
+Norwegian (Bokmål),nob,1,40800,norw1259,Norwegian Bokmål,Eurasia,Indo-European,nor,Norwegian,61.0,8.0,norw1259,,Germanic,nob

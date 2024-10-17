@@ -1,0 +1,16 @@
+pandas
+numpy
+transformers
+networkx
+plac
+termcolor
+scikit-learn
+notebook
+jupyterlab
+jupyterlab-widgets
+ipykernel
+matplotlib
+seaborn
+scipy
+nltk
+scipy

@@ -1,0 +1,4475 @@
+{
+  "cmn_jpn": {
+    "deu_Latn": {
+      "Labels": {
+        "deu_Latn": 1.0
+      },
+      "Step1": {
+        "eng_Latn": 0.6,
+        "guj_Gujr": 0.12,
+        "deu_Latn": 0.16
+      },
+      "Step50+sbeam8": {
+        "eng_Latn": 0.52,
+        "deu_Latn": 0.12,
+        "guj_Gujr": 0.19,
+        "urd_Arab": 0.06
+      },
+      "Base": {
+        "deu_Latn": 0.86,
+        "jpn_Jpan": 0.09
+      }
+    },
+    "ydd_Hebr": {
+      "Labels": {
+        "heb_Hebr": 0.99
+      },
+      "Step1": {
+        "guj_Gujr": 0.87,
+        "urd_Arab": 0.09
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.87,
+        "urd_Arab": 0.1
+      },
+      "Base": {
+        "cmn_Hani": 0.66,
+        "jpn_Jpan": 0.24,
+        "eng_Latn": 0.07
+      }
+    },
+    "heb_Hebr": {
+      "Labels": {
+        "heb_Hebr": 1.0
+      },
+      "Step1": {
+        "urd_Arab": 0.6,
+        "guj_Gujr": 0.28
+      },
+      "Step50+sbeam8": {
+        "urd_Arab": 0.61,
+        "guj_Gujr": 0.26
+      },
+      "Base": {
+        "jpn_Jpan": 0.22,
+        "cmn_Hani": 0.67,
+        "eng_Latn": 0.08
+      }
+    },
+    "arb_Arab": {
+      "Labels": {
+        "arb_Arab": 1.0
+      },
+      "Step1": {
+        "arb_Arab": 0.85,
+        "urd_Arab": 0.1
+      },
+      "Step50+sbeam8": {
+        "arb_Arab": 0.79,
+        "urd_Arab": 0.14
+      },
+      "Base": {
+        "jpn_Jpan": 0.28,
+        "cmn_Hani": 0.56,
+        "eng_Latn": 0.13
+      }
+    },
+    "amh_Ethi": {
+      "Labels": {
+        "amh_Ethi": 0.81,
+        "eng_Latn": 0.14
+      },
+      "Step1": {
+        "guj_Gujr": 0.97
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.97
+      },
+      "Base": {
+        "cmn_Hani": 0.1,
+        "jpn_Jpan": 0.64,
+        "eng_Latn": 0.1
+      }
+    },
+    "mlt_Latn": {
+      "Labels": {
+        "eng_Latn": 0.13,
+        "deu_Latn": 0.19,
+        "mlt_Latn": 0.24,
+        "fin_Latn": 0.11
+      },
+      "Step1": {
+        "eng_Latn": 0.64,
+        "guj_Gujr": 0.21
+      },
+      "Step50+sbeam8": {
+        "eng_Latn": 0.6,
+        "guj_Gujr": 0.24
+      },
+      "Base": {
+        "jpn_Jpan": 0.11,
+        "eng_Latn": 0.33,
+        "cmn_Hani": 0.2
+      }
+    },
+    "hin_Deva": {
+      "Labels": {
+        "hin_Deva": 0.72,
+        "eng_Latn": 0.24
+      },
+      "Step1": {
+        "guj_Gujr": 0.69,
+        "eng_Latn": 0.21,
+        "urd_Arab": 0.07
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.66,
+        "eng_Latn": 0.23,
+        "urd_Arab": 0.08
+      },
+      "Base": {
+        "cmn_Hani": 0.12,
+        "eng_Latn": 0.24,
+        "jpn_Jpan": 0.56
+      }
+    },
+    "urd_Arab": {
+      "Labels": {
+        "urd_Arab": 0.98
+      },
+      "Step1": {
+        "urd_Arab": 0.98
+      },
+      "Step50+sbeam8": {
+        "urd_Arab": 0.98
+      },
+      "Base": {
+        "jpn_Jpan": 0.63,
+        "cmn_Hani": 0.32
+      }
+    },
+    "guj_Gujr": {
+      "Labels": {
+        "guj_Gujr": 0.99
+      },
+      "Step1": {
+        "guj_Gujr": 0.99
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 1.0
+      },
+      "Base": {
+        "jpn_Jpan": 0.61,
+        "cmn_Hani": 0.34
+      }
+    },
+    "sin_Sinh": {
+      "Labels": {
+        "eng_Latn": 0.19
+      },
+      "Step1": {
+        "guj_Gujr": 0.98
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.99
+      },
+      "Base": {
+        "jpn_Jpan": 0.82,
+        "cmn_Hani": 0.14
+      }
+    },
+    "pan_Guru": {
+      "Labels": {
+        "pan_Guru": 1.0
+      },
+      "Step1": {
+        "guj_Gujr": 0.95
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.96
+      },
+      "Base": {
+        "jpn_Jpan": 0.62,
+        "cmn_Hani": 0.3
+      }
+    },
+    "tur_Latn": {
+      "Labels": {
+        "tur_Latn": 0.99
+      },
+      "Step1": {
+        "urd_Arab": 0.45,
+        "tur_Latn": 0.09,
+        "eng_Latn": 0.18
+      },
+      "Step50+sbeam8": {
+        "urd_Arab": 0.54,
+        "eng_Latn": 0.16,
+        "guj_Gujr": 0.07
+      },
+      "Base": {
+        "jpn_Jpan": 0.6,
+        "eng_Latn": 0.09
+      }
+    },
+    "kaz_Cyrl": {
+      "Labels": {
+        "kaz_Cyrl": 0.99
+      },
+      "Step1": {
+        "guj_Gujr": 0.85,
+        "urd_Arab": 0.07
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.85,
+        "urd_Arab": 0.08
+      },
+      "Base": {
+        "jpn_Jpan": 0.71,
+        "cmn_Hani": 0.13,
+        "eng_Latn": 0.06
+      }
+    },
+    "cmn_Hani": {
+      "Labels": {
+        "cmn_Hani": 1.0
+      },
+      "Step1": {
+        "guj_Gujr": 0.53,
+        "eng_Latn": 0.12,
+        "urd_Arab": 0.19
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.54,
+        "urd_Arab": 0.22,
+        "eng_Latn": 0.1
+      },
+      "Base": {
+        "cmn_Hani": 1.0
+      }
+    },
+    "jpn_Jpan": {
+      "Labels": {
+        "jpn_Jpan": 0.99
+      },
+      "Step1": {
+        "guj_Gujr": 0.3,
+        "urd_Arab": 0.48,
+        "eng_Latn": 0.16
+      },
+      "Step50+sbeam8": {
+        "urd_Arab": 0.5,
+        "guj_Gujr": 0.29,
+        "eng_Latn": 0.13
+      },
+      "Base": {
+        "jpn_Jpan": 0.99
+      }
+    },
+    "kor_Hang": {
+      "Labels": {
+        "kor_Hang": 0.99
+      },
+      "Step1": {
+        "eng_Latn": 0.12,
+        "urd_Arab": 0.23,
+        "guj_Gujr": 0.59
+      },
+      "Step50+sbeam8": {
+        "eng_Latn": 0.11,
+        "urd_Arab": 0.24,
+        "guj_Gujr": 0.59
+      },
+      "Base": {
+        "jpn_Jpan": 0.78,
+        "cmn_Hani": 0.13
+      }
+    },
+    "mon_Cyrl": {
+      "Labels": {
+        "mon_Cyrl": 0.99
+      },
+      "Step1": {
+        "guj_Gujr": 0.96
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.96
+      },
+      "Base": {
+        "jpn_Jpan": 0.72,
+        "cmn_Hani": 0.17
+      }
+    },
+    "hun_Latn": {
+      "Labels": {
+        "hun_Latn": 1.0
+      },
+      "Step1": {
+        "eng_Latn": 0.25,
+        "guj_Gujr": 0.21,
+        "deu_Latn": 0.06
+      },
+      "Step50+sbeam8": {
+        "eng_Latn": 0.24,
+        "guj_Gujr": 0.22
+      },
+      "Base": {
+        "jpn_Jpan": 0.36,
+        "deu_Latn": 0.17,
+        "eng_Latn": 0.08,
+        "cmn_Hani": 0.06
+      }
+    },
+    "mhr_Cyrl": {
+      "Labels": {
+        "kaz_Cyrl": 0.61,
+        "mon_Cyrl": 0.26
+      },
+      "Step1": {
+        "urd_Arab": 0.19,
+        "guj_Gujr": 0.57,
+        "eng_Latn": 0.11
+      },
+      "Step50+sbeam8": {
+        "urd_Arab": 0.18,
+        "guj_Gujr": 0.58,
+        "eng_Latn": 0.11
+      },
+      "Base": {
+        "jpn_Jpan": 0.7,
+        "cmn_Hani": 0.12
+      }
+    },
+    "fin_Latn": {
+      "Labels": {
+        "fin_Latn": 0.99
+      },
+      "Step1": {
+        "guj_Gujr": 0.26,
+        "eng_Latn": 0.49
+      },
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.28,
+        "eng_Latn": 0.49
+      },
+      "Base": {
+        "jpn_Jpan": 0.58,
+        "deu_Latn": 0.06,
+        "eng_Latn": 0.09
+      }
+    }
+  },
+  "tur_urd": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.93
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.82,
+        "tur_Latn": 0.07
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.18,
+        "urd_Arab": 0.36,
+        "tur_Latn": 0.28
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.94
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.63,
+        "tur_Latn": 0.31
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.64,
+        "eng_Latn": 0.17
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.74,
+        "eng_Latn": 0.23
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.98
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.97
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.94
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.99
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.99
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.97
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.73,
+        "urd_Arab": 0.13,
+        "eng_Latn": 0.06
+      }
+    },
+    "jpn_Jpan": {
+      "Step1": {
+        "tur_Latn": 0.72,
+        "urd_Arab": 0.15
+      }
+    },
+    "kor_Hang": {
+      "Labels": {
+        "kor_Hang": 0.99
+      },
+      "Base": {
+        "tur_Latn": 0.95
+      }
+    },
+    "mon_Cyrl": {
+      "Labels": {
+        "mon_Cyrl": 0.99
+      },
+      "Base": {
+        "urd_Arab": 0.11,
+        "tur_Latn": 0.81
+      }
+    },
+    "hun_Latn": {
+      "Labels": {
+        "hun_Latn": 1.0
+      },
+      "Base": {
+        "tur_Latn": 0.83
+      }
+    },
+    "mhr_Cyrl": {
+      "Labels": {
+        "kaz_Cyrl": 0.61,
+        "mon_Cyrl": 0.26
+      },
+      "Base": {
+        "tur_Latn": 0.95
+      }
+    },
+    "fin_Latn": {
+      "Labels": {
+        "fin_Latn": 0.99
+      },
+      "Base": {
+        "tur_Latn": 0.86
+      }
+    }
+  },
+  "pan_Guru": {
+    "deu_Latn": {
+      "Step50+sbeam8": {}
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {}
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {}
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {}
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {}
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {}
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {}
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {}
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {}
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {}
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {}
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {}
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {}
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {}
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {}
+    },
+    "kor_Hang": {
+      "Step50+sbeam8": {}
+    },
+    "mon_Cyrl": {
+      "Step50+sbeam8": {}
+    },
+    "hun_Latn": {
+      "Step50+sbeam8": {}
+    },
+    "mhr_Cyrl": {
+      "Step1": {}
+    },
+    "fin_Latn": {
+      "Step1": {}
+    }
+  },
+  "urd_guj": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.52,
+        "deu_Latn": 0.12,
+        "guj_Gujr": 0.19,
+        "urd_Arab": 0.06
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.87,
+        "urd_Arab": 0.1
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.61,
+        "guj_Gujr": 0.26
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.79,
+        "urd_Arab": 0.14
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.97
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.6,
+        "guj_Gujr": 0.24
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.66,
+        "eng_Latn": 0.23,
+        "urd_Arab": 0.08
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.98
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 1.0
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.96
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.54,
+        "eng_Latn": 0.16,
+        "guj_Gujr": 0.07
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.85,
+        "urd_Arab": 0.08
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.54,
+        "urd_Arab": 0.22,
+        "eng_Latn": 0.1
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.5,
+        "guj_Gujr": 0.29,
+        "eng_Latn": 0.13
+      }
+    },
+    "kor_Hang": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.11,
+        "urd_Arab": 0.24,
+        "guj_Gujr": 0.59
+      }
+    },
+    "mon_Cyrl": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.96
+      }
+    },
+    "hun_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.24,
+        "guj_Gujr": 0.22
+      }
+    },
+    "mhr_Cyrl": {
+      "Step50+sbeam8": {
+        "urd_Arab": 0.18,
+        "guj_Gujr": 0.58,
+        "eng_Latn": 0.11
+      }
+    },
+    "fin_Latn": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.28,
+        "eng_Latn": 0.49
+      }
+    }
+  },
+  "heb_arb": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.96
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "heb_Hebr": 0.97
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "heb_Hebr": 1.0
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "arb_Arab": 1.0
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.4,
+        "heb_Hebr": 0.38,
+        "eng_Latn": 0.1
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.51,
+        "deu_Latn": 0.11
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.45,
+        "eng_Latn": 0.41
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.93
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.57,
+        "heb_Hebr": 0.18,
+        "eng_Latn": 0.21
+      }
+    },
+    "sin_Sinh": {
+      "Step1": {
+        "heb_Hebr": 0.42,
+        "arb_Arab": 0.4,
+        "eng_Latn": 0.13
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.12,
+        "arb_Arab": 0.48,
+        "heb_Hebr": 0.32
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.86
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.29,
+        "kaz_Cyrl": 0.13,
+        "eng_Latn": 0.13,
+        "arb_Arab": 0.15,
+        "mon_Cyrl": 0.07,
+        "heb_Hebr": 0.11
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "cmn_Hani": 0.06,
+        "arb_Arab": 0.18,
+        "heb_Hebr": 0.23,
+        "eng_Latn": 0.08
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.14,
+        "eng_Latn": 0.29,
+        "heb_Hebr": 0.08,
+        "cmn_Hani": 0.09
+      }
+    },
+    "kor_Hang": {
+      "Step1": {
+        "eng_Latn": 0.18,
+        "arb_Arab": 0.32,
+        "heb_Hebr": 0.26
+      }
+    },
+    "mon_Cyrl": {
+      "Labels": {
+        "mon_Cyrl": 0.99
+      },
+      "Base": {
+        "deu_Latn": 0.08,
+        "arb_Arab": 0.1,
+        "eng_Latn": 0.3,
+        "mon_Cyrl": 0.07,
+        "tur_Latn": 0.08,
+        "kaz_Cyrl": 0.12
+      }
+    },
+    "hun_Latn": {
+      "Labels": {
+        "hun_Latn": 1.0
+      },
+      "Base": {
+        "tur_Latn": 0.11,
+        "eng_Latn": 0.11,
+        "hun_Latn": 0.09,
+        "deu_Latn": 0.15,
+        "fin_Latn": 0.09
+      }
+    },
+    "mhr_Cyrl": {
+      "Labels": {
+        "kaz_Cyrl": 0.61,
+        "mon_Cyrl": 0.26
+      },
+      "Base": {
+        "mon_Cyrl": 0.33,
+        "kaz_Cyrl": 0.36,
+        "arb_Arab": 0.06
+      }
+    },
+    "fin_Latn": {
+      "Labels": {
+        "fin_Latn": 0.99
+      },
+      "Base": {
+        "fin_Latn": 0.69,
+        "deu_Latn": 0.08
+      }
+    }
+  },
+  "hin_guj": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 0.64,
+        "eng_Latn": 0.24
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "guj_Gujr": 0.92
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "hin_Deva": 0.83,
+        "eng_Latn": 0.1
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "eng_Latn": 0.68,
+        "hin_Deva": 0.26
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "guj_Gujr": 0.95
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.66,
+        "guj_Gujr": 0.13
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "hin_Deva": 0.73,
+        "eng_Latn": 0.25
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "hin_Deva": 0.86,
+        "eng_Latn": 0.09
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "guj_Gujr": 1.0
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "guj_Gujr": 0.79,
+        "eng_Latn": 0.06,
+        "hin_Deva": 0.13
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "guj_Gujr": 0.62,
+        "hin_Deva": 0.34
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "hin_Deva": 0.12,
+        "eng_Latn": 0.17,
+        "tur_Latn": 0.15
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "guj_Gujr": 0.81,
+        "eng_Latn": 0.06
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "cmn_Hani": 0.67,
+        "hin_Deva": 0.23
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "hin_Deva": 0.74,
+        "eng_Latn": 0.14
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.16,
+        "hin_Deva": 0.77
+      }
+    },
+    "mon_Cyrl": {
+      "Labels": {
+        "mon_Cyrl": 0.99
+      },
+      "Base": {
+        "guj_Gujr": 0.96
+      }
+    },
+    "hun_Latn": {
+      "Labels": {
+        "hun_Latn": 1.0
+      },
+      "Base": {
+        "guj_Gujr": 0.15,
+        "eng_Latn": 0.21,
+        "deu_Latn": 0.11
+      }
+    },
+    "mhr_Cyrl": {
+      "Labels": {
+        "kaz_Cyrl": 0.61,
+        "mon_Cyrl": 0.26
+      },
+      "Base": {
+        "guj_Gujr": 0.79,
+        "hin_Deva": 0.07
+      }
+    },
+    "fin_Latn": {
+      "Labels": {
+        "fin_Latn": 0.99
+      },
+      "Base": {
+        "eng_Latn": 0.3,
+        "deu_Latn": 0.07,
+        "fin_Latn": 0.14,
+        "hin_Deva": 0.07
+      }
+    }
+  },
+  "turkic-fami": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.97
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.85,
+        "tur_Latn": 0.08
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.92
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.27,
+        "tur_Latn": 0.64,
+        "eng_Latn": 0.06
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.41,
+        "tur_Latn": 0.52
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.72,
+        "eng_Latn": 0.11
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.26,
+        "tur_Latn": 0.55,
+        "kaz_Cyrl": 0.14
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.68,
+        "kaz_Cyrl": 0.21
+      }
+    },
+    "guj_Gujr": {
+      "Step1": {
+        "kaz_Cyrl": 0.86,
+        "tur_Latn": 0.08
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.74,
+        "tur_Latn": 0.2
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.68,
+        "tur_Latn": 0.2
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.99
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 1.0
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.12,
+        "tur_Latn": 0.58,
+        "kaz_Cyrl": 0.2
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.79
+      }
+    },
+    "kor_Hang": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.07,
+        "tur_Latn": 0.87
+      }
+    },
+    "mon_Cyrl": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.95
+      }
+    },
+    "hun_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.51,
+        "kaz_Cyrl": 0.15,
+        "hun_Latn": 0.18
+      }
+    },
+    "mhr_Cyrl": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.9
+      }
+    },
+    "fin_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.82,
+        "fin_Latn": 0.11
+      }
+    }
+  },
+  "tur_guj": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.89,
+        "tur_Latn": 0.08
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.92
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.92
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.81,
+        "eng_Latn": 0.07,
+        "guj_Gujr": 0.09
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.87,
+        "tur_Latn": 0.08
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.27,
+        "tur_Latn": 0.5
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.76,
+        "eng_Latn": 0.22
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.88,
+        "tur_Latn": 0.07
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.99
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.72,
+        "guj_Gujr": 0.26
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.32,
+        "eng_Latn": 0.14,
+        "guj_Gujr": 0.44
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.73,
+        "guj_Gujr": 0.16,
+        "eng_Latn": 0.06
+      }
+    },
+    "kor_Hang": {
+      "Step1": {
+        "tur_Latn": 0.93
+      }
+    },
+    "mon_Cyrl": {
+      "Labels": {
+        "mon_Cyrl": 0.99
+      },
+      "Base": {
+        "guj_Gujr": 0.55,
+        "tur_Latn": 0.39
+      }
+    },
+    "hun_Latn": {
+      "Labels": {
+        "hun_Latn": 1.0
+      },
+      "Base": {
+        "tur_Latn": 0.83
+      }
+    },
+    "mhr_Cyrl": {
+      "Labels": {
+        "kaz_Cyrl": 0.61,
+        "mon_Cyrl": 0.26
+      },
+      "Base": {
+        "tur_Latn": 0.96
+      }
+    },
+    "fin_Latn": {
+      "Labels": {
+        "fin_Latn": 0.99
+      },
+      "Base": {
+        "tur_Latn": 0.91
+      }
+    }
+  },
+  "semitic-fami": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 0.6,
+        "heb_Hebr": 0.13,
+        "arb_Arab": 0.09,
+        "eng_Latn": 0.07
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "heb_Hebr": 0.4,
+        "fin_Latn": 0.07,
+        "deu_Latn": 0.1,
+        "mlt_Latn": 0.13
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "heb_Hebr": 1.0
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "arb_Arab": 1.0
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "fin_Latn": 0.15,
+        "heb_Hebr": 0.16,
+        "deu_Latn": 0.14,
+        "tur_Latn": 0.06,
+        "mlt_Latn": 0.14
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.14,
+        "fin_Latn": 0.08,
+        "mlt_Latn": 0.27,
+        "deu_Latn": 0.19
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "eng_Latn": 0.25,
+        "arb_Arab": 0.67
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "arb_Arab": 0.94
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "arb_Arab": 0.48,
+        "mlt_Latn": 0.09,
+        "fin_Latn": 0.09,
+        "tur_Latn": 0.09
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "eng_Latn": 0.09,
+        "arb_Arab": 0.1,
+        "fin_Latn": 0.08,
+        "heb_Hebr": 0.32,
+        "deu_Latn": 0.06,
+        "mlt_Latn": 0.1
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "tur_Latn": 0.06,
+        "fin_Latn": 0.16,
+        "mlt_Latn": 0.09,
+        "heb_Hebr": 0.13,
+        "arb_Arab": 0.2,
+        "deu_Latn": 0.06,
+        "eng_Latn": 0.06
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "tur_Latn": 0.11,
+        "heb_Hebr": 0.35,
+        "eng_Latn": 0.11,
+        "arb_Arab": 0.06
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "fin_Latn": 0.11,
+        "mlt_Latn": 0.15,
+        "heb_Hebr": 0.1,
+        "arb_Arab": 0.1,
+        "tur_Latn": 0.11,
+        "deu_Latn": 0.07
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "arb_Arab": 0.16,
+        "heb_Hebr": 0.5,
+        "eng_Latn": 0.11,
+        "cmn_Hani": 0.11
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "arb_Arab": 0.37,
+        "heb_Hebr": 0.38,
+        "eng_Latn": 0.15
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "arb_Arab": 0.36,
+        "heb_Hebr": 0.48,
+        "eng_Latn": 0.09
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "eng_Latn": 0.06,
+        "deu_Latn": 0.13,
+        "mlt_Latn": 0.17,
+        "tur_Latn": 0.07,
+        "fin_Latn": 0.16
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "hun_Latn": 0.45,
+        "eng_Latn": 0.13
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "tur_Latn": 0.1,
+        "mlt_Latn": 0.18,
+        "deu_Latn": 0.07,
+        "hun_Latn": 0.06,
+        "fin_Latn": 0.19
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "fin_Latn": 0.58,
+        "eng_Latn": 0.06,
+        "heb_Hebr": 0.1
+      }
+    }
+  },
+  "heb_Hebr": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 0.3,
+        "heb_Hebr": 0.59,
+        "eng_Latn": 0.07
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "heb_Hebr": 0.97
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "heb_Hebr": 1.0
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "heb_Hebr": 0.93,
+        "eng_Latn": 0.06
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "heb_Hebr": 0.93
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.4,
+        "heb_Hebr": 0.34
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "eng_Latn": 0.24,
+        "heb_Hebr": 0.71
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "heb_Hebr": 0.92,
+        "eng_Latn": 0.06
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "heb_Hebr": 0.95
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "heb_Hebr": 0.94
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "heb_Hebr": 0.98
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "heb_Hebr": 0.7,
+        "eng_Latn": 0.15
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "heb_Hebr": 0.9
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "heb_Hebr": 0.86
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "heb_Hebr": 0.86
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "heb_Hebr": 0.91
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "heb_Hebr": 0.85,
+        "eng_Latn": 0.09
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "heb_Hebr": 0.77
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "heb_Hebr": 0.82
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "heb_Hebr": 0.74,
+        "eng_Latn": 0.15
+      }
+    }
+  },
+  "tur_hin": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.94
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "hin_Deva": 0.7,
+        "eng_Latn": 0.12,
+        "tur_Latn": 0.07
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.37,
+        "hin_Deva": 0.52,
+        "eng_Latn": 0.08
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.22,
+        "eng_Latn": 0.56,
+        "hin_Deva": 0.14
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "hin_Deva": 0.52,
+        "tur_Latn": 0.25,
+        "eng_Latn": 0.14
+      }
+    },
+    "mlt_Latn": {
+      "Step1": {
+        "tur_Latn": 0.6,
+        "eng_Latn": 0.19
+      }
+    },
+    "hin_Deva": {
+      "Step1": {
+        "hin_Deva": 0.74,
+        "eng_Latn": 0.23
+      }
+    },
+    "urd_Arab": {
+      "Step1": {
+        "hin_Deva": 0.89,
+        "eng_Latn": 0.06
+      }
+    },
+    "guj_Gujr": {
+      "Step1": {
+        "hin_Deva": 0.96
+      }
+    },
+    "sin_Sinh": {
+      "Step1": {
+        "hin_Deva": 0.9,
+        "eng_Latn": 0.06
+      }
+    },
+    "pan_Guru": {
+      "Step1": {
+        "hin_Deva": 0.98
+      }
+    },
+    "tur_Latn": {
+      "Step1": {
+        "tur_Latn": 0.99
+      }
+    },
+    "kaz_Cyrl": {
+      "Step1": {
+        "tur_Latn": 0.9,
+        "hin_Deva": 0.06
+      }
+    },
+    "cmn_Hani": {
+      "Step1": {
+        "hin_Deva": 0.46,
+        "cmn_Hani": 0.41
+      }
+    },
+    "jpn_Jpan": {
+      "Step1": {
+        "tur_Latn": 0.27,
+        "hin_Deva": 0.6,
+        "eng_Latn": 0.08
+      }
+    },
+    "kor_Hang": {
+      "Step1": {
+        "eng_Latn": 0.07,
+        "tur_Latn": 0.67,
+        "hin_Deva": 0.21
+      }
+    },
+    "mon_Cyrl": {
+      "Step1": {
+        "tur_Latn": 0.61,
+        "eng_Latn": 0.06,
+        "hin_Deva": 0.28
+      }
+    },
+    "hun_Latn": {
+      "Step1": {
+        "tur_Latn": 0.73,
+        "hun_Latn": 0.16
+      }
+    },
+    "mhr_Cyrl": {
+      "Step1": {
+        "tur_Latn": 0.88
+      }
+    },
+    "fin_Latn": {
+      "Step1": {
+        "tur_Latn": 0.66,
+        "fin_Latn": 0.26
+      }
+    }
+  },
+  "kaz_urd": {
+    "deu_Latn": {
+      "Step50+sbeam8": {}
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {}
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {}
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {}
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {}
+    },
+    "mlt_Latn": {
+      "Step1": {}
+    },
+    "hin_Deva": {
+      "Step1": {}
+    },
+    "urd_Arab": {
+      "Step1": {}
+    },
+    "guj_Gujr": {
+      "Step1": {}
+    },
+    "sin_Sinh": {
+      "Step1": {}
+    },
+    "pan_Guru": {
+      "Step1": {}
+    },
+    "tur_Latn": {
+      "Step1": {}
+    },
+    "kaz_Cyrl": {
+      "Step1": {}
+    },
+    "cmn_Hani": {
+      "Step1": {}
+    },
+    "jpn_Jpan": {
+      "Step1": {}
+    },
+    "kor_Hang": {
+      "Step1": {}
+    },
+    "mon_Cyrl": {
+      "Step1": {}
+    },
+    "hun_Latn": {
+      "Step1": {}
+    },
+    "mhr_Cyrl": {
+      "Step1": {}
+    },
+    "fin_Latn": {
+      "Step1": {}
+    }
+  },
+  "deu_Latn": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.99
+      }
+    },
+    "ydd_Hebr": {
+      "Step1": {
+        "deu_Latn": 0.87
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.99
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.95
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.89
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.81,
+        "eng_Latn": 0.06
+      }
+    },
+    "hin_Deva": {
+      "Step1": {
+        "deu_Latn": 0.51,
+        "eng_Latn": 0.36
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.8,
+        "eng_Latn": 0.08
+      }
+    },
+    "guj_Gujr": {
+      "Labels": {
+        "guj_Gujr": 0.99
+      },
+      "Base": {
+        "deu_Latn": 0.86,
+        "eng_Latn": 0.08
+      }
+    },
+    "sin_Sinh": {
+      "Step1": {
+        "deu_Latn": 0.86,
+        "eng_Latn": 0.06
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.86
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.8,
+        "tur_Latn": 0.08
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.92
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.89
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.82
+      }
+    },
+    "kor_Hang": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.81,
+        "eng_Latn": 0.1
+      }
+    },
+    "mon_Cyrl": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.85
+      }
+    },
+    "hun_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.89
+      }
+    },
+    "mhr_Cyrl": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.69
+      }
+    },
+    "fin_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.93
+      }
+    }
+  },
+  "tur_Latn": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 0.91,
+        "tur_Latn": 0.06
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "tur_Latn": 0.9
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "tur_Latn": 0.96
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "tur_Latn": 0.79,
+        "arb_Arab": 0.15
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "tur_Latn": 0.8
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.16,
+        "tur_Latn": 0.66
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "eng_Latn": 0.32,
+        "tur_Latn": 0.63
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "tur_Latn": 0.9
+      }
+    },
+    "guj_Gujr": {
+      "Labels": {
+        "guj_Gujr": 0.99
+      },
+      "Step50+sbeam8": {
+        "tur_Latn": 0.94
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "tur_Latn": 0.94
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "tur_Latn": 0.9
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "tur_Latn": 0.99
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "tur_Latn": 0.98
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "cmn_Hani": 0.16,
+        "tur_Latn": 0.79
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "tur_Latn": 0.92
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "tur_Latn": 0.93
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "tur_Latn": 0.96
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "tur_Latn": 0.45,
+        "hun_Latn": 0.43
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "tur_Latn": 0.91
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "fin_Latn": 0.12,
+        "tur_Latn": 0.83
+      }
+    }
+  },
+  "hin_Deva": {
+    "deu_Latn": {
+      "Base": {
+        "eng_Latn": 0.34,
+        "deu_Latn": 0.4,
+        "hin_Deva": 0.11
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "hin_Deva": 0.84,
+        "eng_Latn": 0.07
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "hin_Deva": 0.87,
+        "eng_Latn": 0.08
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "eng_Latn": 0.76,
+        "hin_Deva": 0.18
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "eng_Latn": 0.33,
+        "hin_Deva": 0.59
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.68
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "hin_Deva": 0.71,
+        "eng_Latn": 0.25
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "hin_Deva": 0.87,
+        "eng_Latn": 0.09
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "hin_Deva": 0.95
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "hin_Deva": 0.91,
+        "eng_Latn": 0.06
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "hin_Deva": 0.96
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "tur_Latn": 0.12,
+        "eng_Latn": 0.23,
+        "hin_Deva": 0.14
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "eng_Latn": 0.22,
+        "hin_Deva": 0.62
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "hin_Deva": 0.49,
+        "cmn_Hani": 0.28,
+        "eng_Latn": 0.12
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "hin_Deva": 0.72,
+        "eng_Latn": 0.19
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.25,
+        "hin_Deva": 0.6
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "hin_Deva": 0.74,
+        "eng_Latn": 0.17
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "eng_Latn": 0.33,
+        "hin_Deva": 0.08
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "hin_Deva": 0.19,
+        "eng_Latn": 0.29
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "eng_Latn": 0.42,
+        "hin_Deva": 0.17,
+        "fin_Latn": 0.08
+      }
+    }
+  },
+  "mon_Cyrl": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.96
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "mon_Cyrl": 0.91
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.17,
+        "mon_Cyrl": 0.49
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.2,
+        "arb_Arab": 0.4,
+        "mon_Cyrl": 0.28
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "mon_Cyrl": 0.88,
+        "eng_Latn": 0.07
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.27,
+        "mon_Cyrl": 0.43
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.25,
+        "mon_Cyrl": 0.64
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "mon_Cyrl": 0.86
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "mon_Cyrl": 0.96
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "mon_Cyrl": 0.93
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "mon_Cyrl": 0.97
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.82,
+        "mon_Cyrl": 0.1
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "mon_Cyrl": 0.97
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "cmn_Hani": 0.7,
+        "mon_Cyrl": 0.19
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "jpn_Jpan": 0.71,
+        "cmn_Hani": 0.09,
+        "mon_Cyrl": 0.07
+      }
+    },
+    "kor_Hang": {
+      "Step50+sbeam8": {
+        "cmn_Hani": 0.14,
+        "kor_Hang": 0.24,
+        "eng_Latn": 0.12,
+        "jpn_Jpan": 0.06,
+        "mon_Cyrl": 0.3
+      }
+    },
+    "mon_Cyrl": {
+      "Step50+sbeam8": {
+        "mon_Cyrl": 0.99
+      }
+    },
+    "hun_Latn": {
+      "Step1": {
+        "mon_Cyrl": 0.3,
+        "hun_Latn": 0.06,
+        "eng_Latn": 0.15,
+        "deu_Latn": 0.13
+      }
+    },
+    "mhr_Cyrl": {
+      "Step1": {
+        "mon_Cyrl": 0.94
+      }
+    },
+    "fin_Latn": {
+      "Step1": {
+        "fin_Latn": 0.09,
+        "mon_Cyrl": 0.43,
+        "eng_Latn": 0.17,
+        "deu_Latn": 0.11
+      }
+    }
+  },
+  "kaz_guj": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.15,
+        "deu_Latn": 0.53,
+        "guj_Gujr": 0.24
+      }
+    },
+    "ydd_Hebr": {
+      "Step1": {
+        "guj_Gujr": 0.36,
+        "kaz_Cyrl": 0.58
+      }
+    },
+    "heb_Hebr": {
+      "Step1": {
+        "guj_Gujr": 0.53,
+        "eng_Latn": 0.13,
+        "kaz_Cyrl": 0.2
+      }
+    },
+    "arb_Arab": {
+      "Step1": {
+        "eng_Latn": 0.59,
+        "guj_Gujr": 0.35
+      }
+    },
+    "amh_Ethi": {
+      "Step1": {
+        "guj_Gujr": 0.76,
+        "kaz_Cyrl": 0.17
+      }
+    },
+    "mlt_Latn": {
+      "Step1": {
+        "eng_Latn": 0.27,
+        "kaz_Cyrl": 0.53
+      }
+    },
+    "hin_Deva": {
+      "Step1": {
+        "eng_Latn": 0.24,
+        "guj_Gujr": 0.72
+      }
+    },
+    "urd_Arab": {
+      "Step1": {
+        "guj_Gujr": 0.95
+      }
+    },
+    "guj_Gujr": {
+      "Step1": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "sin_Sinh": {
+      "Step1": {
+        "guj_Gujr": 0.97
+      }
+    },
+    "pan_Guru": {
+      "Step1": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "tur_Latn": {
+      "Step1": {
+        "tur_Latn": 0.34,
+        "kaz_Cyrl": 0.39,
+        "eng_Latn": 0.09
+      }
+    },
+    "kaz_Cyrl": {
+      "Step1": {
+        "kaz_Cyrl": 1.0
+      }
+    },
+    "cmn_Hani": {
+      "Step1": {
+        "guj_Gujr": 0.34,
+        "kaz_Cyrl": 0.15,
+        "eng_Latn": 0.23
+      }
+    },
+    "jpn_Jpan": {
+      "Step1": {
+        "guj_Gujr": 0.48,
+        "eng_Latn": 0.19,
+        "kaz_Cyrl": 0.18
+      }
+    },
+    "kor_Hang": {
+      "Step1": {
+        "guj_Gujr": 0.64,
+        "eng_Latn": 0.2,
+        "kaz_Cyrl": 0.08
+      }
+    },
+    "mon_Cyrl": {
+      "Step1": {
+        "kaz_Cyrl": 0.94
+      }
+    },
+    "hun_Latn": {
+      "Step1": {
+        "kaz_Cyrl": 0.68,
+        "eng_Latn": 0.08
+      }
+    },
+    "mhr_Cyrl": {
+      "Step1": {
+        "kaz_Cyrl": 0.91
+      }
+    },
+    "fin_Latn": {
+      "Step1": {
+        "kaz_Cyrl": 0.61,
+        "eng_Latn": 0.16,
+        "mon_Cyrl": 0.08
+      }
+    }
+  },
+  "kaz_hin": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 0.92
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "kaz_Cyrl": 0.95
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "eng_Latn": 0.27,
+        "hin_Deva": 0.5,
+        "kaz_Cyrl": 0.07
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "eng_Latn": 0.83,
+        "hin_Deva": 0.11
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "kaz_Cyrl": 0.9,
+        "eng_Latn": 0.06
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.27,
+        "kaz_Cyrl": 0.33
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "hin_Deva": 0.72,
+        "eng_Latn": 0.24
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "hin_Deva": 0.86,
+        "eng_Latn": 0.1
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "kaz_Cyrl": 0.4,
+        "hin_Deva": 0.51,
+        "eng_Latn": 0.06
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "hin_Deva": 0.71,
+        "kaz_Cyrl": 0.17,
+        "eng_Latn": 0.08
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "hin_Deva": 0.96
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "tur_Latn": 0.59,
+        "kaz_Cyrl": 0.15,
+        "eng_Latn": 0.07
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "kaz_Cyrl": 0.99
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "hin_Deva": 0.19,
+        "cmn_Hani": 0.76
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "hin_Deva": 0.66,
+        "eng_Latn": 0.14,
+        "cmn_Hani": 0.07
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.18,
+        "hin_Deva": 0.68
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "kaz_Cyrl": 0.97
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "kaz_Cyrl": 0.55,
+        "eng_Latn": 0.11
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "kaz_Cyrl": 0.9,
+        "mon_Cyrl": 0.06
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "kaz_Cyrl": 0.37,
+        "eng_Latn": 0.22,
+        "fin_Latn": 0.09
+      }
+    }
+  },
+  "cyrl-script": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 0.97
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "kaz_Cyrl": 0.83,
+        "mon_Cyrl": 0.1
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "eng_Latn": 0.24,
+        "mon_Cyrl": 0.11,
+        "kaz_Cyrl": 0.25,
+        "deu_Latn": 0.08
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "eng_Latn": 0.39,
+        "arb_Arab": 0.43,
+        "mon_Cyrl": 0.08
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "tur_Latn": 0.08,
+        "kaz_Cyrl": 0.1,
+        "mon_Cyrl": 0.56,
+        "eng_Latn": 0.09
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.31,
+        "kaz_Cyrl": 0.27,
+        "deu_Latn": 0.06
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "mon_Cyrl": 0.46,
+        "eng_Latn": 0.34,
+        "kaz_Cyrl": 0.1
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "kaz_Cyrl": 0.36,
+        "eng_Latn": 0.09,
+        "mon_Cyrl": 0.47
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "mon_Cyrl": 0.82,
+        "kaz_Cyrl": 0.12
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "mon_Cyrl": 0.86,
+        "eng_Latn": 0.07
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "mon_Cyrl": 0.94
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "tur_Latn": 0.79,
+        "kaz_Cyrl": 0.07
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "kaz_Cyrl": 0.99
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "cmn_Hani": 0.86,
+        "jpn_Jpan": 0.1
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "cmn_Hani": 0.12,
+        "jpn_Jpan": 0.8
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.08,
+        "cmn_Hani": 0.16,
+        "kor_Hang": 0.49,
+        "kaz_Cyrl": 0.13
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "mon_Cyrl": 0.98
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "kaz_Cyrl": 0.34,
+        "eng_Latn": 0.1,
+        "deu_Latn": 0.16
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "kaz_Cyrl": 0.82,
+        "mon_Cyrl": 0.14
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "fin_Latn": 0.18,
+        "deu_Latn": 0.19,
+        "eng_Latn": 0.16
+      }
+    }
+  },
+  "arb_Arab": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.89,
+        "arb_Arab": 0.06
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.84,
+        "eng_Latn": 0.08
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.95
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "arb_Arab": 1.0
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.76,
+        "eng_Latn": 0.11
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.44,
+        "arb_Arab": 0.28
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.4,
+        "arb_Arab": 0.49
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.97
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.85,
+        "eng_Latn": 0.11
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.74,
+        "eng_Latn": 0.19
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.77,
+        "eng_Latn": 0.12
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.68,
+        "arb_Arab": 0.18
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.24,
+        "arb_Arab": 0.54,
+        "eng_Latn": 0.08
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.59,
+        "cmn_Hani": 0.06,
+        "eng_Latn": 0.14
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "arb_Arab": 0.26,
+        "eng_Latn": 0.53
+      }
+    },
+    "kor_Hang": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.36,
+        "arb_Arab": 0.47
+      }
+    },
+    "mon_Cyrl": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.25,
+        "arb_Arab": 0.57
+      }
+    },
+    "hun_Latn": {
+      "Step1": {
+        "arb_Arab": 0.43,
+        "eng_Latn": 0.1,
+        "tur_Latn": 0.06,
+        "deu_Latn": 0.06
+      }
+    },
+    "mhr_Cyrl": {
+      "Step1": {
+        "arb_Arab": 0.62,
+        "kaz_Cyrl": 0.06,
+        "tur_Latn": 0.08,
+        "mon_Cyrl": 0.06
+      }
+    },
+    "fin_Latn": {
+      "Step1": {
+        "eng_Latn": 0.14,
+        "arb_Arab": 0.39,
+        "deu_Latn": 0.06,
+        "tur_Latn": 0.08
+      }
+    }
+  },
+  "urd_Arab": {
+    "deu_Latn": {
+      "Base": {
+        "eng_Latn": 0.65,
+        "urd_Arab": 0.27
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "urd_Arab": 0.93
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "urd_Arab": 0.79,
+        "eng_Latn": 0.12
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "arb_Arab": 0.83,
+        "urd_Arab": 0.09
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "urd_Arab": 0.89,
+        "eng_Latn": 0.07
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.46,
+        "urd_Arab": 0.33
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "eng_Latn": 0.24,
+        "urd_Arab": 0.73
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "urd_Arab": 0.98
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "urd_Arab": 0.95
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "urd_Arab": 0.91
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "urd_Arab": 0.98
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "urd_Arab": 0.63,
+        "eng_Latn": 0.26
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "urd_Arab": 0.84,
+        "eng_Latn": 0.1
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "urd_Arab": 0.7,
+        "eng_Latn": 0.24
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "urd_Arab": 0.74,
+        "eng_Latn": 0.23
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.21,
+        "urd_Arab": 0.74
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "urd_Arab": 0.93
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "eng_Latn": 0.59,
+        "urd_Arab": 0.17
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "urd_Arab": 0.84
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "eng_Latn": 0.65,
+        "urd_Arab": 0.25
+      }
+    }
+  },
+  "kaz_Cyrl": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.13,
+        "deu_Latn": 0.47,
+        "kaz_Cyrl": 0.25
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.91
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.77,
+        "eng_Latn": 0.15
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.31,
+        "eng_Latn": 0.5
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.89
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.26,
+        "kaz_Cyrl": 0.46
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.59,
+        "eng_Latn": 0.27
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.83,
+        "eng_Latn": 0.08
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.96
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.91
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.93
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.21,
+        "kaz_Cyrl": 0.52,
+        "eng_Latn": 0.07
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.99
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.52,
+        "eng_Latn": 0.25
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "kaz_Cyrl": 0.61,
+        "eng_Latn": 0.19
+      }
+    },
+    "kor_Hang": {
+      "Step1": {
+        "kaz_Cyrl": 0.68,
+        "eng_Latn": 0.15
+      }
+    },
+    "mon_Cyrl": {
+      "Step1": {
+        "kaz_Cyrl": 0.98
+      }
+    },
+    "hun_Latn": {
+      "Step1": {
+        "kaz_Cyrl": 0.66,
+        "eng_Latn": 0.07
+      }
+    },
+    "mhr_Cyrl": {
+      "Step1": {
+        "kaz_Cyrl": 0.91
+      }
+    },
+    "fin_Latn": {
+      "Step1": {
+        "kaz_Cyrl": 0.58,
+        "eng_Latn": 0.27
+      }
+    }
+  },
+  "indo-aryan-fami": {
+    "deu_Latn": {
+      "Base": {
+        "eng_Latn": 0.15,
+        "deu_Latn": 0.76
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "guj_Gujr": 0.86,
+        "urd_Arab": 0.08
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "arb_Arab": 0.33,
+        "urd_Arab": 0.26,
+        "eng_Latn": 0.08,
+        "hin_Deva": 0.19
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "arb_Arab": 0.93
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "pan_Guru": 0.97
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.48,
+        "guj_Gujr": 0.17
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "hin_Deva": 0.72,
+        "eng_Latn": 0.24
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "urd_Arab": 0.98
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "pan_Guru": 0.39,
+        "hin_Deva": 0.26,
+        "guj_Gujr": 0.25,
+        "eng_Latn": 0.07
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "pan_Guru": 1.0
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "tur_Latn": 0.69,
+        "eng_Latn": 0.07
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "guj_Gujr": 0.69,
+        "urd_Arab": 0.07
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "cmn_Hani": 0.93
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "hin_Deva": 0.55,
+        "cmn_Hani": 0.22,
+        "eng_Latn": 0.13
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.15,
+        "hin_Deva": 0.75
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "guj_Gujr": 0.91
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "deu_Latn": 0.09,
+        "eng_Latn": 0.23,
+        "guj_Gujr": 0.11
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "guj_Gujr": 0.3,
+        "mon_Cyrl": 0.08,
+        "kaz_Cyrl": 0.09,
+        "urd_Arab": 0.23,
+        "eng_Latn": 0.06
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "fin_Latn": 0.21,
+        "eng_Latn": 0.26,
+        "deu_Latn": 0.12
+      }
+    }
+  },
+  "hin_pan": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.63,
+        "eng_Latn": 0.16
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.85,
+        "eng_Latn": 0.06
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "hin_Deva": 0.84,
+        "eng_Latn": 0.1
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.65,
+        "hin_Deva": 0.29
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.98
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.67
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "hin_Deva": 0.73,
+        "eng_Latn": 0.23
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "hin_Deva": 0.77,
+        "pan_Guru": 0.09,
+        "eng_Latn": 0.09
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.91,
+        "hin_Deva": 0.06
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.89,
+        "hin_Deva": 0.06
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "pan_Guru": 1.0
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "hin_Deva": 0.32,
+        "eng_Latn": 0.09,
+        "tur_Latn": 0.26
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.15,
+        "hin_Deva": 0.58
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.24,
+        "hin_Deva": 0.43,
+        "cmn_Hani": 0.2
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.16,
+        "hin_Deva": 0.76
+      }
+    },
+    "kor_Hang": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.15,
+        "hin_Deva": 0.72
+      }
+    },
+    "mon_Cyrl": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.9
+      }
+    },
+    "hun_Latn": {
+      "Step50+sbeam8": {
+        "hin_Deva": 0.11,
+        "eng_Latn": 0.18,
+        "deu_Latn": 0.11
+      }
+    },
+    "mhr_Cyrl": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.16,
+        "hin_Deva": 0.13,
+        "pan_Guru": 0.29
+      }
+    },
+    "fin_Latn": {
+      "Step50+sbeam8": {
+        "hin_Deva": 0.31,
+        "fin_Latn": 0.07,
+        "eng_Latn": 0.27
+      }
+    }
+  },
+  "arab-script": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 0.96
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "arb_Arab": 0.55,
+        "urd_Arab": 0.32
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "arb_Arab": 0.73,
+        "heb_Hebr": 0.19
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "arb_Arab": 1.0
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "urd_Arab": 0.63,
+        "eng_Latn": 0.1,
+        "arb_Arab": 0.17
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.65,
+        "arb_Arab": 0.06
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "urd_Arab": 0.71,
+        "eng_Latn": 0.27
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "urd_Arab": 0.99
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "urd_Arab": 0.89,
+        "eng_Latn": 0.07
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "urd_Arab": 0.93
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "urd_Arab": 0.98
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "tur_Latn": 0.89
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "eng_Latn": 0.1,
+        "kaz_Cyrl": 0.11,
+        "tur_Latn": 0.23,
+        "urd_Arab": 0.36
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "cmn_Hani": 0.94
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "jpn_Jpan": 0.06,
+        "eng_Latn": 0.39,
+        "arb_Arab": 0.15,
+        "cmn_Hani": 0.18,
+        "urd_Arab": 0.1
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.24,
+        "arb_Arab": 0.48
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "urd_Arab": 0.57,
+        "eng_Latn": 0.21
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "tur_Latn": 0.22,
+        "eng_Latn": 0.16,
+        "deu_Latn": 0.11,
+        "arb_Arab": 0.07
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "urd_Arab": 0.31,
+        "mon_Cyrl": 0.16,
+        "kaz_Cyrl": 0.18,
+        "tur_Latn": 0.12
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "deu_Latn": 0.34,
+        "eng_Latn": 0.16
+      }
+    }
+  },
+  "guj_Gujr": {
+    "deu_Latn": {
+      "Base": {
+        "eng_Latn": 0.61,
+        "guj_Gujr": 0.33
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "guj_Gujr": 0.95
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "guj_Gujr": 0.79,
+        "eng_Latn": 0.18
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "eng_Latn": 0.49,
+        "guj_Gujr": 0.47
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "guj_Gujr": 0.96
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.67,
+        "guj_Gujr": 0.25
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "guj_Gujr": 0.72,
+        "eng_Latn": 0.26
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "guj_Gujr": 0.94
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "guj_Gujr": 0.63,
+        "eng_Latn": 0.26
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "guj_Gujr": 0.95
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "guj_Gujr": 0.31,
+        "eng_Latn": 0.48
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "guj_Gujr": 0.75,
+        "eng_Latn": 0.19
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "guj_Gujr": 0.73,
+        "eng_Latn": 0.23
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "guj_Gujr": 0.94
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "guj_Gujr": 0.51,
+        "eng_Latn": 0.34
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "guj_Gujr": 0.96
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "guj_Gujr": 0.59,
+        "eng_Latn": 0.34
+      }
+    }
+  },
+  "tur_pan": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "deu_Latn": 0.88,
+        "tur_Latn": 0.08
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.94
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.13,
+        "tur_Latn": 0.82
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.25,
+        "pan_Guru": 0.61,
+        "eng_Latn": 0.1
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.97
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.29,
+        "tur_Latn": 0.5
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.77,
+        "eng_Latn": 0.22
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.97
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.99
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.99
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "pan_Guru": 1.0
+      }
+    },
+    "tur_Latn": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.99
+      }
+    },
+    "kaz_Cyrl": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.13,
+        "tur_Latn": 0.84
+      }
+    },
+    "cmn_Hani": {
+      "Step50+sbeam8": {
+        "tur_Latn": 0.43,
+        "pan_Guru": 0.45,
+        "eng_Latn": 0.06
+      }
+    },
+    "jpn_Jpan": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.18,
+        "tur_Latn": 0.62,
+        "eng_Latn": 0.08
+      }
+    },
+    "kor_Hang": {
+      "Step1": {
+        "tur_Latn": 0.94
+      }
+    },
+    "mon_Cyrl": {
+      "Labels": {
+        "mon_Cyrl": 0.99
+      },
+      "Base": {
+        "pan_Guru": 0.44,
+        "tur_Latn": 0.52
+      }
+    },
+    "hun_Latn": {
+      "Labels": {
+        "hun_Latn": 1.0
+      },
+      "Base": {
+        "tur_Latn": 0.84
+      }
+    },
+    "mhr_Cyrl": {
+      "Labels": {
+        "kaz_Cyrl": 0.61,
+        "mon_Cyrl": 0.26
+      },
+      "Base": {
+        "tur_Latn": 0.97
+      }
+    },
+    "fin_Latn": {
+      "Labels": {
+        "fin_Latn": 0.99
+      },
+      "Base": {
+        "tur_Latn": 0.83,
+        "fin_Latn": 0.06
+      }
+    }
+  },
+  "pan_guj": {
+    "deu_Latn": {
+      "Base": {
+        "eng_Latn": 0.58,
+        "guj_Gujr": 0.12,
+        "pan_Guru": 0.13
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "guj_Gujr": 0.91
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "pan_Guru": 0.71,
+        "eng_Latn": 0.18
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "eng_Latn": 0.63,
+        "pan_Guru": 0.2,
+        "guj_Gujr": 0.11
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "pan_Guru": 0.92
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.77,
+        "guj_Gujr": 0.12
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "hin_Deva": 0.11,
+        "eng_Latn": 0.35,
+        "guj_Gujr": 0.23,
+        "pan_Guru": 0.25
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "pan_Guru": 0.87,
+        "guj_Gujr": 0.06
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "guj_Gujr": 0.99
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "pan_Guru": 0.38,
+        "guj_Gujr": 0.6
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "pan_Guru": 1.0
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "pan_Guru": 0.15,
+        "eng_Latn": 0.44,
+        "guj_Gujr": 0.18
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "eng_Latn": 0.06,
+        "guj_Gujr": 0.9
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "eng_Latn": 0.48,
+        "hin_Deva": 0.1,
+        "cmn_Hani": 0.11,
+        "pan_Guru": 0.08,
+        "guj_Gujr": 0.11
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "hin_Deva": 0.07,
+        "guj_Gujr": 0.53,
+        "eng_Latn": 0.3
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.3,
+        "guj_Gujr": 0.54,
+        "pan_Guru": 0.06
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "guj_Gujr": 0.92,
+        "eng_Latn": 0.06
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "eng_Latn": 0.28,
+        "guj_Gujr": 0.35,
+        "pan_Guru": 0.06
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "guj_Gujr": 0.77,
+        "eng_Latn": 0.1
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "guj_Gujr": 0.34,
+        "eng_Latn": 0.5
+      }
+    }
+  },
+  "urd_hin": {
+    "deu_Latn": {
+      "Base": {
+        "eng_Latn": 0.28,
+        "deu_Latn": 0.57
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "hin_Deva": 0.54,
+        "urd_Arab": 0.29
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "hin_Deva": 0.73,
+        "eng_Latn": 0.07,
+        "urd_Arab": 0.07
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "arb_Arab": 0.88,
+        "urd_Arab": 0.08
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "urd_Arab": 0.41,
+        "eng_Latn": 0.2,
+        "hin_Deva": 0.31
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.57
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "hin_Deva": 0.72,
+        "eng_Latn": 0.24
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "urd_Arab": 0.98
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "hin_Deva": 0.95
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "hin_Deva": 0.9,
+        "eng_Latn": 0.07
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "hin_Deva": 0.9,
+        "urd_Arab": 0.08
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "urd_Arab": 0.19,
+        "tur_Latn": 0.33,
+        "eng_Latn": 0.13
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "urd_Arab": 0.09,
+        "hin_Deva": 0.45,
+        "eng_Latn": 0.17
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "cmn_Hani": 0.26,
+        "hin_Deva": 0.53,
+        "eng_Latn": 0.1
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "hin_Deva": 0.82,
+        "eng_Latn": 0.14
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.12,
+        "hin_Deva": 0.77
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "hin_Deva": 0.48,
+        "eng_Latn": 0.17,
+        "urd_Arab": 0.22
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "eng_Latn": 0.24,
+        "deu_Latn": 0.09
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "tur_Latn": 0.08,
+        "urd_Arab": 0.5,
+        "eng_Latn": 0.06
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "hin_Deva": 0.06,
+        "deu_Latn": 0.16,
+        "eng_Latn": 0.34,
+        "fin_Latn": 0.07
+      }
+    }
+  },
+  "atlatic_fami": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 0.98
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "mon_Cyrl": 0.89
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "tur_Latn": 0.54,
+        "kor_Hang": 0.25,
+        "heb_Hebr": 0.06
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "arb_Arab": 0.27,
+        "tur_Latn": 0.42,
+        "eng_Latn": 0.13,
+        "kor_Hang": 0.14
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "mon_Cyrl": 0.88,
+        "eng_Latn": 0.07
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.26,
+        "tur_Latn": 0.4,
+        "mon_Cyrl": 0.08
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "eng_Latn": 0.31,
+        "kor_Hang": 0.19,
+        "mon_Cyrl": 0.22,
+        "tur_Latn": 0.2
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "tur_Latn": 0.58,
+        "mon_Cyrl": 0.24,
+        "eng_Latn": 0.09
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "mon_Cyrl": 0.91
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "mon_Cyrl": 0.9
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "mon_Cyrl": 0.88,
+        "kor_Hang": 0.09
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "tur_Latn": 0.99
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "mon_Cyrl": 0.87,
+        "tur_Latn": 0.1
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "cmn_Hani": 1.0
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "jpn_Jpan": 0.99
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "kor_Hang": 0.99
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "mon_Cyrl": 0.98
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "hun_Latn": 0.53,
+        "tur_Latn": 0.38
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "mon_Cyrl": 0.95
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "tur_Latn": 0.42,
+        "fin_Latn": 0.36
+      }
+    }
+  },
+  "kaz_pan": {
+    "deu_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.13,
+        "deu_Latn": 0.66,
+        "pan_Guru": 0.09
+      }
+    },
+    "ydd_Hebr": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.22,
+        "kaz_Cyrl": 0.69
+      }
+    },
+    "heb_Hebr": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.65,
+        "eng_Latn": 0.19,
+        "kaz_Cyrl": 0.09
+      }
+    },
+    "arb_Arab": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.58,
+        "pan_Guru": 0.35
+      }
+    },
+    "amh_Ethi": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.94
+      }
+    },
+    "mlt_Latn": {
+      "Step50+sbeam8": {
+        "eng_Latn": 0.26,
+        "kaz_Cyrl": 0.56
+      }
+    },
+    "hin_Deva": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.75,
+        "eng_Latn": 0.23
+      }
+    },
+    "urd_Arab": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.98
+      }
+    },
+    "guj_Gujr": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.99
+      }
+    },
+    "sin_Sinh": {
+      "Step50+sbeam8": {
+        "pan_Guru": 0.99
+      }
+    },
+    "pan_Guru": {
+      "Step50+sbeam8": {
+        "pan_Guru": 1.0
+      }
+    },
+    "tur_Latn": {
+      "Step1": {
+        "kaz_Cyrl": 0.53,
+        "tur_Latn": 0.19,
+        "eng_Latn": 0.1
+      }
+    },
+    "kaz_Cyrl": {
+      "Labels": {
+        "kaz_Cyrl": 0.99
+      },
+      "Base": {
+        "kaz_Cyrl": 0.99
+      }
+    },
+    "cmn_Hani": {
+      "Labels": {
+        "cmn_Hani": 1.0
+      },
+      "Base": {
+        "pan_Guru": 0.5,
+        "eng_Latn": 0.32,
+        "kaz_Cyrl": 0.06
+      }
+    },
+    "jpn_Jpan": {
+      "Labels": {
+        "jpn_Jpan": 0.99
+      },
+      "Base": {
+        "pan_Guru": 0.41,
+        "kaz_Cyrl": 0.19,
+        "eng_Latn": 0.24
+      }
+    },
+    "kor_Hang": {
+      "Labels": {
+        "kor_Hang": 0.99
+      },
+      "Base": {
+        "eng_Latn": 0.36,
+        "pan_Guru": 0.42,
+        "kaz_Cyrl": 0.14
+      }
+    },
+    "mon_Cyrl": {
+      "Labels": {
+        "mon_Cyrl": 0.99
+      },
+      "Base": {
+        "kaz_Cyrl": 0.97
+      }
+    },
+    "hun_Latn": {
+      "Labels": {
+        "hun_Latn": 1.0
+      },
+      "Base": {
+        "kaz_Cyrl": 0.54,
+        "eng_Latn": 0.12
+      }
+    },
+    "mhr_Cyrl": {
+      "Labels": {
+        "kaz_Cyrl": 0.61,
+        "mon_Cyrl": 0.26
+      },
+      "Base": {
+        "kaz_Cyrl": 0.93
+      }
+    },
+    "fin_Latn": {
+      "Labels": {
+        "fin_Latn": 0.99
+      },
+      "Base": {
+        "kaz_Cyrl": 0.18,
+        "eng_Latn": 0.55
+      }
+    }
+  },
+  "jpn_Jpan": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 0.62,
+        "jpn_Jpan": 0.34
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "jpn_Jpan": 0.59,
+        "eng_Latn": 0.19,
+        "cmn_Hani": 0.09
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "jpn_Jpan": 0.77,
+        "eng_Latn": 0.15
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "jpn_Jpan": 0.71,
+        "eng_Latn": 0.24
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "jpn_Jpan": 0.46,
+        "eng_Latn": 0.22
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "deu_Latn": 0.07,
+        "eng_Latn": 0.36,
+        "jpn_Jpan": 0.22
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "jpn_Jpan": 0.63,
+        "eng_Latn": 0.26
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "jpn_Jpan": 0.82,
+        "cmn_Hani": 0.07,
+        "eng_Latn": 0.06
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "jpn_Jpan": 0.83,
+        "eng_Latn": 0.09
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "jpn_Jpan": 0.85,
+        "eng_Latn": 0.06
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "jpn_Jpan": 0.77,
+        "eng_Latn": 0.08,
+        "cmn_Hani": 0.08
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "eng_Latn": 0.08,
+        "tur_Latn": 0.08,
+        "jpn_Jpan": 0.55
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "jpn_Jpan": 0.73,
+        "eng_Latn": 0.08
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "cmn_Hani": 0.53,
+        "jpn_Jpan": 0.46
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "jpn_Jpan": 0.98
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.07,
+        "jpn_Jpan": 0.83
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "jpn_Jpan": 0.81,
+        "eng_Latn": 0.07
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "jpn_Jpan": 0.49,
+        "eng_Latn": 0.08,
+        "deu_Latn": 0.12
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "jpn_Jpan": 0.64
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "jpn_Jpan": 0.58,
+        "deu_Latn": 0.06,
+        "fin_Latn": 0.08
+      }
+    }
+  },
+  "latn-script": {
+    "deu_Latn": {
+      "Base": {
+        "deu_Latn": 1.0
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "tur_Latn": 0.86
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "tur_Latn": 0.96
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "tur_Latn": 0.95
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "tur_Latn": 0.84
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.15,
+        "tur_Latn": 0.6,
+        "deu_Latn": 0.07
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "tur_Latn": 0.63,
+        "eng_Latn": 0.3
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "tur_Latn": 0.92
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "tur_Latn": 0.96
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "tur_Latn": 0.94
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "tur_Latn": 0.92
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "tur_Latn": 0.99
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "tur_Latn": 0.97
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "tur_Latn": 0.49,
+        "cmn_Hani": 0.3,
+        "eng_Latn": 0.12
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "tur_Latn": 0.92
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "tur_Latn": 0.93
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "tur_Latn": 0.92
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "tur_Latn": 0.55,
+        "hun_Latn": 0.32
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "tur_Latn": 0.9
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "fin_Latn": 0.22,
+        "deu_Latn": 0.52,
+        "tur_Latn": 0.19
+      }
+    }
+  },
+  "urd_pan": {
+    "deu_Latn": {
+      "Base": {
+        "eng_Latn": 0.58,
+        "pan_Guru": 0.23,
+        "deu_Latn": 0.11
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "pan_Guru": 0.85,
+        "urd_Arab": 0.09
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "pan_Guru": 0.74,
+        "arb_Arab": 0.06,
+        "eng_Latn": 0.06,
+        "urd_Arab": 0.09
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "arb_Arab": 0.79,
+        "urd_Arab": 0.15
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "pan_Guru": 0.99
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.66,
+        "pan_Guru": 0.18
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "eng_Latn": 0.27,
+        "pan_Guru": 0.65,
+        "urd_Arab": 0.06
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "urd_Arab": 0.98
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "pan_Guru": 0.98
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "pan_Guru": 0.99
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "pan_Guru": 1.0
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "urd_Arab": 0.22,
+        "tur_Latn": 0.13,
+        "pan_Guru": 0.19,
+        "eng_Latn": 0.26
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "pan_Guru": 0.76,
+        "urd_Arab": 0.11,
+        "eng_Latn": 0.06
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "urd_Arab": 0.11,
+        "eng_Latn": 0.19,
+        "pan_Guru": 0.56
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "pan_Guru": 0.41,
+        "urd_Arab": 0.2,
+        "eng_Latn": 0.34
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "eng_Latn": 0.19,
+        "pan_Guru": 0.49,
+        "urd_Arab": 0.23
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "pan_Guru": 0.91
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "eng_Latn": 0.32,
+        "pan_Guru": 0.33
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "pan_Guru": 0.27,
+        "urd_Arab": 0.51,
+        "eng_Latn": 0.09
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "pan_Guru": 0.2,
+        "eng_Latn": 0.64
+      }
+    }
+  },
+  "cmn_Hani": {
+    "deu_Latn": {
+      "Base": {
+        "cmn_Hani": 0.83,
+        "deu_Latn": 0.09,
+        "eng_Latn": 0.06
+      }
+    },
+    "ydd_Hebr": {
+      "Base": {
+        "cmn_Hani": 0.91
+      }
+    },
+    "heb_Hebr": {
+      "Base": {
+        "cmn_Hani": 0.94
+      }
+    },
+    "arb_Arab": {
+      "Base": {
+        "cmn_Hani": 0.94
+      }
+    },
+    "amh_Ethi": {
+      "Base": {
+        "eng_Latn": 0.1,
+        "cmn_Hani": 0.81
+      }
+    },
+    "mlt_Latn": {
+      "Base": {
+        "eng_Latn": 0.18,
+        "cmn_Hani": 0.61
+      }
+    },
+    "hin_Deva": {
+      "Base": {
+        "cmn_Hani": 0.82,
+        "eng_Latn": 0.12
+      }
+    },
+    "urd_Arab": {
+      "Base": {
+        "cmn_Hani": 0.97
+      }
+    },
+    "guj_Gujr": {
+      "Base": {
+        "cmn_Hani": 0.95
+      }
+    },
+    "sin_Sinh": {
+      "Base": {
+        "cmn_Hani": 0.96
+      }
+    },
+    "pan_Guru": {
+      "Base": {
+        "cmn_Hani": 0.92
+      }
+    },
+    "tur_Latn": {
+      "Base": {
+        "cmn_Hani": 0.65,
+        "eng_Latn": 0.12
+      }
+    },
+    "kaz_Cyrl": {
+      "Base": {
+        "cmn_Hani": 0.85,
+        "eng_Latn": 0.07
+      }
+    },
+    "cmn_Hani": {
+      "Base": {
+        "cmn_Hani": 1.0
+      }
+    },
+    "jpn_Jpan": {
+      "Base": {
+        "jpn_Jpan": 0.93
+      }
+    },
+    "kor_Hang": {
+      "Base": {
+        "cmn_Hani": 0.94
+      }
+    },
+    "mon_Cyrl": {
+      "Base": {
+        "cmn_Hani": 0.84
+      }
+    },
+    "hun_Latn": {
+      "Base": {
+        "cmn_Hani": 0.69,
+        "eng_Latn": 0.09
+      }
+    },
+    "mhr_Cyrl": {
+      "Base": {
+        "cmn_Hani": 0.81
+      }
+    },
+    "fin_Latn": {
+      "Base": {
+        "cmn_Hani": 0.9,
+        "eng_Latn": 0.06
+      }
+    }
+  }
+}

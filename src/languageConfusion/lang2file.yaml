@@ -1,0 +1,27 @@
+deu_Latn: yiyic/oscar_deu_Latn_train
+ydd_Hebr: yiyic/CulturaX_yi_train # NO LINGUA
+heb_Hebr: yiyic/CulturaX_he_train
+arb_Arab: yiyic/CulturaX_ar_train
+amh_Ethi: yiyic/CulturaX_am_train # NO LINGUA
+mlt_Latn: yiyic/CulturaX_mt_train # NO LINGUA
+hin_Deva: yiyic/CulturaX_hi_train
+urd_Arab: yiyic/CulturaX_ur_train
+guj_Gujr: yiyic/CulturaX_gu_train
+sin_Sinh: yiyic/CulturaX_si_train # NO LINGUA
+pan_Guru: yiyic/CulturaX_pa_train
+tur_Latn: yiyic/CulturaX_tr_train
+kaz_Cyrl: yiyic/CulturaX_kk_train
+cmn_Hani: yiyic/CulturaX_zh_train
+jpn_Jpan: yiyic/CulturaX_ja_train
+kor_Hang: yiyic/CulturaX_ko_train
+mon_Cyrl: yiyic/CulturaX_mn_train
+hun_Latn: yiyic/CulturaX_hu_train
+mhr_Cyrl: yiyic/CulturaX_mhr_train # NO LINGUA
+fin_Latn: yiyic/CulturaX_fi_train
+ind_fami: yiyic/Indo-Aryan-hin-urd-guj-pan_train # no sin.
+tur_fami: yiyic/Turkic_train
+sem_fami: yiyic/Semitic_heb_arb_mlt_train # no amharic
+atl_fami: yiyic/Atlatic_train
+lat_scrp: yiyic/Latn_train
+cyr_scrp: yiyic/Cyrl_train
+ara_scrp: yiyic/Arab_train
